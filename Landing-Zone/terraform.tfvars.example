@@ -1,0 +1,8 @@
+# Example variable values for Landing-Zone configuration
+# Copy this file to terraform.tfvars and customize for your environment
+
+# location = "eastus"
+
+# parent_management_group_id = ""
+
+# enable_telemetry = true

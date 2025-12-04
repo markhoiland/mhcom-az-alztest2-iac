@@ -1,0 +1,21 @@
+# Example variable values for Management configuration
+# Copy this file to terraform.tfvars and customize for your environment
+
+# location = "eastus"
+
+# resource_group_name = "rg-alz-management"
+
+# log_analytics_workspace_name = "law-alz-management"
+
+# automation_account_name = "aa-alz-management"
+
+# log_analytics_workspace_retention_in_days = 30
+
+# enable_automation_account = false
+
+# enable_telemetry = true
+
+# tags = {
+#   Environment = "Management"
+#   ManagedBy   = "Terraform"
+# }
